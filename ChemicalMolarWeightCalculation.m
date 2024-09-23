@@ -1,4 +1,5 @@
-%% This code calculate how much chemicals should be used to get desired concentration
+% This code calculate how much chemicals should be used to get desired concentration
+% Author: Qing Wang
 
 function ChemicalMolarWeightCalculation()
 %Mass: mass on scale in the unit of milligrams.
