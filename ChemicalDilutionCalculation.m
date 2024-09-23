@@ -1,4 +1,5 @@
-%% This code calculate how much chemicals should be used to get desired concentration
+% This code calculate how much chemicals should be used to get desired concentration
+% Author: Qing Wang
 
 function ChemicalDilutionCalculation()
 %CB: Chemical concentration before dilution in the unit of millimoles
